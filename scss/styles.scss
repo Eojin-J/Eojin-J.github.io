@@ -696,15 +696,17 @@ footer {
 */
 
 #Honors_Awards {
-    padding: 100px 25px;
+    padding: 75px 15px;
     border-bottom: 1px solid $border;
 
     h2 {
         color: $heading;
+        margin-bottom: 50px;
     }
 
     p {
         color: $text;
+        margin-bottom: 50px;
         margin: 0;
     }
 }
